@@ -74,19 +74,19 @@
   	
   
    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   </a> 
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> 
   </a> 
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://aleen42.github.io/badges/src/premiere.svg"/>
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   </a>
     &emsp;
   <a href="#">
