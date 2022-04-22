@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="///png.icons8.com/java/Color/2" alt="linux" width="40" height="40"/> 
+    <img src="https://icons8.com/icon/13679/icon" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
