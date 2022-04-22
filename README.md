@@ -37,7 +37,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://icons8.com/icon/13679/icon" alt="linux" width="40" height="40"/> 
+    <img src="![icons8_java_96px_1](https://user-images.githubusercontent.com/101214356/164746925-6ca64079-cdb4-4b51-b543-6a2a7c3369f6.png)
+" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
