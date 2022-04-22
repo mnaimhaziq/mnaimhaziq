@@ -73,8 +73,8 @@
   &emsp;
   	
   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
   </a> 
   &emsp;
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
@@ -86,11 +86,11 @@
   </a>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+   <img alt="Adobe Premiere Pro" src="https://aleen42.github.io/badges/src/premiere.svg"/>
   </a>
     &emsp;
   <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   </a>
  </p>
 
