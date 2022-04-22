@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naim Haziq <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">A passionate Software Engineering Student and beginner Front-End developer from Malaysia</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently looking on my **Internship**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Python, HTML5, CSS5 and Javascript**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to get my internship as **front-end or back-end developer**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **mnaimhaziq@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I like so much watching anime, playing games ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
