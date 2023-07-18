@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naim Haziq <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software Engineering Student and beginner Front-End developer from Malaysia</h3>
+<h3 align="center">A passionate Software Engineering Student and beginner software developer from Malaysia</h3>
 
 - 🔭 I’m currently working on my Final Year Project
 
