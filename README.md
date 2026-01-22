@@ -1,161 +1,120 @@
-<h1 align="center">Hi 👋, I'm Naim Haziq <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software Engineering Student and beginner software developer from Malaysia</h3>
+<h1 align="center">Hi there, I'm Muhammad Naim Haziq <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-- 🔭 I’m currently working on my Final Year Project
+<h3 align="center">Full-Stack & Blockchain Software Engineer from Malaysia</h3>
 
-- 🌱 I’m currently learning **Python, React, Node.js, Express, Java, and JavaScript**
-
-- 👯 I’m looking to pursue a career as a **front-end or back-end developer**
-
-- 📫 How to reach me: **mnaimhaziq@gmail.com**
-
-- ⚡ What I like to do: **I enjoy watching anime, playing games, and of course, coding**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
- 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-buse-412852233)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mnaimhaziq/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mnaimhaziq)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:producter.mnaimhaziq@gmail.com)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Naim-Haziq)
-</div>
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
+<p align="center">
+  Building scalable web applications, blockchain infrastructure, and high-performance systems.<br>
+  Passionate about clean code, DevOps, and solving real-world problems.
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  </a>
-   &emsp;
-  <a href="https://material-ui.com" target="_blank">
-    <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-  </a>
-
-  <a href="https://angular.io" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  </a>
+<p align="center">
+  <a href="https://mnaimhaziq.space" target="_blank"><img src="https://img.shields.io/badge/Website-mnaimhaziq.space-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/mnaimhaziq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mnaimhaziq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/mnaimhaziq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-### 👉 Backend Development
+### 🚀 About Me
+- 🔭 Currently building **blockchain-agnostic systems**, multi-chain integrations, and Kubernetes-based infrastructure at Malaysia Blockchain Infrastructure
+- 🌱 Deepening expertise in **Typescript**, **Kubernetes**, **React.js**, **Linux**, and modern full-stack tooling
+- 👨‍💻 Leading teams, mentoring juniors, and delivering production-grade software
+- 💼 2+ years professional experience in full-stack, blockchain, and DevOps
+- 📈 Led deployment of highly available clusters with CI/CD, auto-scaling, and backups
+- 🎮 When not coding: Playing Badminton, Cafe Hunting and exploring new tech
+
+### 🛠️ Tech Stack
+
+**Languages**  
 <p align="left">
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  </a>
- &emsp;
-  <a href="https://spring.io/" target="_blank">
-    <img alt="Java Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 👉 Databases & Cloud Hosting
+**Frontend & Mobile**  
 <p align="left">
-  &emsp;
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  &emsp;
-  <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-     &emsp;
-  <a href="https://render.com/" target="_blank">
-    <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### 👉 State Management
+**Backend & APIs**  
 <p align="left">
-  &emsp;
-  <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></a>
-    &emsp;
-  <a href="https://redux-toolkit.js.org" target="_blank">
-    <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-### 👉 Image Hosting and Manipulation
+**Blockchain & Web3**  
 <p align="left">
-  &emsp;
-  <a href="https://cloudinary.com" target="_blank">
-    <img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Hyperledger_Fabric-00A3E0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zetrix-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 </p>
 
-### 👉 Graphic Designing
+**Databases & Storage**  
 <p align="left">
-  &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  </a>  
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
- </p>
-
-### 👉 Software & Tools
-<p>
-  &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"></a>
-  &emsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MinIO-00C1DE?style=for-the-badge&logo=minio&logoColor=white"/>
 </p>
 
-<br/>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mnaimhaziq&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnaimhaziq&theme=react&layout=compact" />
+**DevOps & Infrastructure**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo_CD-EF0000?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velero-00A3E0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
-------
+**Monitoring & Security**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+</p>
 
-[mnaimhaziq](https://github.com/mnaimhaziq)
+**Tools & Others**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnaimhaziq&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnaimhaziq&theme=tokyonight&layout=compact&langs_count=8"/>
+</p>
+
+<p align="center">
+  <i>Feel free to explore my repositories or reach out for collaboration!</i>
+</p>
+
+---
+
+Made with ❤️ in Malaysia • Last updated Jan 2026
